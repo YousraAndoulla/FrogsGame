@@ -23,3 +23,7 @@ The game is played by moving frogs between rocks, with each frog only allowed to
 2. Frogs can only jump over one frog or move to an adjacent empty rock.
 3. The puzzle is solved when all left frogs are on the right and vice versa.
 
+## 👥 Authors
+The Frogs Game project was created by **Yousra Andoulla** and **Rahil Allali** during our bachelor's studies in Mathematics and Computer Science. With a shared interest in game development and problem-solving, we collaborated to design this puzzle game, allowing players to practice logical thinking and planning. We worked together on both the game mechanics and the interactive user interface, using Java and Java Swing to bring our concept to life.
+
+
